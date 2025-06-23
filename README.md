@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushiqmurad" alt="koushiqmurad" /></a> </p>
 
-- 🔭 I’m currently working on **my personal projects**
+🌐 Founder of KM Project Suite
+🧰 Builder of Magisk Modules, Exploit Tools, Payloads, and TermUI Systems
+🔍 Passionate about Web, Android, and Network Security
 
-- 🌱 I’m currently learning **cyber security**
-
-- 🤝 I’m looking for help with **learning more**
-
-- 📝 I regularly write articles on [https://cataclysmickoushiq.blogspot.com/](https://cataclysmickoushiq.blogspot.com/)
-
-- 📫 How to reach me **princekoushiq78@gmail.com**
-
-- ⚡ Fun fact **I can do much more than I know**
+🧠 Knowledge Stack
+- Web Pentesting  (XSS, SSRF, RCE, WAF Bypass)
+- Android Internals (Magisk, Zygisk, ADB Forensics)
+- Exploit Dev (Payload Chains, Reverse Shells)
+- Network Scanning (nmap, masscan, BurpSuite, nuclei)
 
 - <!-- Snake Game Repo View -->
 
