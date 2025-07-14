@@ -1,88 +1,92 @@
-<div align="center">
-  <a href="https://github.com/KoushiqMurad">
-    <img src="https://media.tenor.com/J2NFdO52D8gAAAAC/hologram-tech.gif" width="100%" alt="Holographic Interface Banner"/>
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Koushiq Murad</h1>
+<h3 align="center">Offensive Security Builder | Ethical Hacker | Android Specialist</h3>
 
-<div align="center">
-  <a href="https://github.com/KoushiqMurad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Koushiq+Murad;Offensive+Security+Engineer;Cyber-Toolsmith;Hacking+from+Pabna%2C+Bangladesh" alt="Typing SVG" />
-  </a>
-</div>
+---
 
 <p align="center">
-  <a href="https://github.com/KoushiqMurad?tab=followers">
-    <img src="https://img.shields.io/github/followers/KoushiqMurad?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/KoushiqMurad">
-    <img src="https://img.shields.io/github/stars/KoushiqMurad?style=social" alt="GitHub Stars">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=koushiqmurad" alt="koushiqmurad" />
   </a>
 </p>
 
-<br>
+I'm a security researcher who builds tools to understand and neutralize digital threats. From dissecting web application vulnerabilities to exploring the internals of the Android OS, I thrive on breaking systems to learn how to make them stronger.
 
-<table width="100%">
+- 🔭 **I’m currently building:** WebSploitX, a modular offensive web hacking toolkit.
+- 🌱 **I’m currently learning:** Advanced Cloud Security (AWS/Azure) and Exploit Development techniques.
+- 👯 **I’m looking to collaborate on:** Open-source security tools and CTF challenges.
+- 📫 **How to reach me:** [princekoushiq78@gmail.com]
+
+---
+
+### Featured Projects
+
+<table>
 <tr>
-<td width="65%" valign="top">
-
-### **<img src="https://i.imgur.com/u5tV01m.png" width="30px">  SYSTEMS ONLINE: ABOUT ME**
-<p align="left">
-I'm a security architect and developer who thrives on the edge of digital creation and deconstruction. My core mission is to build robust offensive security tools to probe digital fortresses and understand systems at their deepest level. From the sprawling architecture of the cloud to the silicon-level details of Android, I see every line of code as a new puzzle to solve.
+<td width="50%">
+<h3 align="center">WebSploitX</h3>
+<div align="center">
+<a href="LINK_TO_YOUR_PROJECT_REPO" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100">
+</a>
+<p>
+A modular offensive security tool for web pentesting, featuring scanners for XSS, SQLi, LFI, and automated reporting. Built to streamline the recon-to-exploit workflow.
 </p>
-
-<hr>
-
-### **<img src="https://i.imgur.com/747u1sY.png" width="30px">  ACTIVE OPERATIONS: FEATURED PROJECTS**
-<p align="center">
-  <a href="https://github.com/KoushiqMurad/WebSploitX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushiqMurad&repo=WebSploitX&theme=tokyonight&bg_color=0d1117&border_color=00BFFF&show_owner=true" alt="WebSploitX Project Card">
-  </a>
-  <a href="https://github.com/KoushiqMurad/SubSniper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushiqMurad&repo=SubSniper&theme=tokyonight&bg_color=0d1117&border_color=00BFFF&show_owner=true" alt="SubSniper Project Card">
-  </a>
-</p>
-
+</div>
 </td>
-<td width="35%" valign="top">
-
-### **<img src="https://i.imgur.com/k4MvEln.png" width="30px">  TECH ARSENAL**
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<td width="50%">
+<h3 align="center">SubSniper</h3>
+<div align="center">
+<a href="LINK_TO_YOUR_PROJECT_REPO" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="100">
+</a>
+<p>
+A fast and efficient subdomain enumeration tool written in Bash. Designed to quickly discover hidden subdomains during the initial reconnaissance phase of a penetration test.
 </p>
-
-### **<img src="https://i.imgur.com/hGv4j25.png" width="30px">  SECURE COMMS**
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="YOUR_TRYHACKME_URL"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-</p>
-
+</div>
 </td>
 </tr>
 </table>
 
-<hr>
+---
 
-### **<img src="https://i.imgur.com/uL026gm.png" width="30px">  ACTIVITY & DATASTREAMS**
+### 🛠️ My Skills & Tools
+
+#### Core Languages
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+</p>
+
+#### Web, Databases & Frameworks
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+</p>
+
+#### Cloud & DevOps
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushiqmurad&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00BFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushiqmurad&theme=tokyonight&background=0d1117&border=00BFFF" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushiqmurad&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00BFFF" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koushiqmurad&show_icons=true&locale=en&theme=dark" alt="koushiqmurad" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushiqmurad&theme=dark" alt="koushiqmurad" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiqmurad&show_icons=true&locale=en&layout=compact&theme=dark" alt="koushiqmurad" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushiqmurad&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="koushiqmurad" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KoushiqMurad/KoushiqMurad/main/assets/snake.svg" alt="Snake animation" />
-</div>
-
-****
