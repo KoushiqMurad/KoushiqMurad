@@ -66,10 +66,13 @@ I am a **CAPT Certified Penetration Tester** aiming for the Australian cyber mar
 
 <div align="center">
   <p>Engineered by Koushiq Murad</p>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_URL]">
+  <a href="https://bd.linkedin.com/in/koushiqmurad">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://tryhackme.com/p/XOppenheimer">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://koushiq-murad.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-Cybersecurity_Hub-orange?style=for-the-badge&logo=blogger" />
   </a>
 </div>
